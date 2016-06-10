@@ -1,0 +1,16 @@
+{
+    "uvs":[[0,0,1,0,1,1,0,1]],
+    "vertices":[-0.707547,0,0.5,0.707547,0,0.5,-0.707547,-0,-0.5,0.707547,-0,-0.5],
+    "normals":[0,-0,-1],
+    "faces":[41,0,1,3,2,0,1,2,3,0,0,0,0],
+    "metadata":{
+        "uvs":1,
+        "vertices":4,
+        "normals":1,
+        "version":3,
+        "faces":1,
+        "type":"Geometry",
+        "generator":"io_three"
+    },
+    "name":"Box elder (Acer negundo) 3Geometry"
+}
